@@ -8,3 +8,4 @@ The original object total height on the STL files is only 6cm. Scale up to your 
 ![result](IMG_6053.jpg)
 ![instruction](MoonRocketDrawing.png)
 ![animation](assembly.gif)
+![plume](MoonRocketPlume.png)
